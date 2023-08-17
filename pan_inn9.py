@@ -280,5 +280,5 @@ class pan_inn(nn.Module):
 if __name__ == "__main__":
 
 
-    net3 = pan_inn(T=16)
+    net3 = pan_inn(T=4)
     net3.test()
