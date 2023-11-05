@@ -1,0 +1,16 @@
+/usr/local/sbin/startdocker: line 59: [: too many arguments
+/ghome/fuxy/py_pansharpening-traditional/methods/GSA.py:22: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  alpha = np.linalg.lstsq(ILRC, IHC)[0]
+/ghome/fuxy/py_pansharpening-traditional/methods/CNMF.py:864: RuntimeWarning: invalid value encountered in log10
+  SNR = np.abs(10*np.log10( (P_x - (p/L)*P_y) / (P_y - P_x) ))
+/usr/local/sbin/startdocker: line 3: /tmp/startdocker.log: Permission denied
+/usr/local/sbin/startdocker: line 59: [: too many arguments
+/usr/local/sbin/startdocker: line 78: /tmp/startdocker.log: Permission denied
+/ghome/fuxy/py_pansharpening-traditional/methods/GSA.py:22: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  alpha = np.linalg.lstsq(ILRC, IHC)[0]
+/ghome/fuxy/py_pansharpening-traditional/methods/CNMF.py:864: RuntimeWarning: invalid value encountered in log10
+  SNR = np.abs(10*np.log10( (P_x - (p/L)*P_y) / (P_y - P_x) ))
+/ghome/fuxy/py_pansharpening-traditional/methods/CNMF.py:864: RuntimeWarning: invalid value encountered in true_divide
+  SNR = np.abs(10*np.log10( (P_x - (p/L)*P_y) / (P_y - P_x) ))
